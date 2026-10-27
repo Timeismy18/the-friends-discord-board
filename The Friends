@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Friends Trophy Board</title>
+</head>
+<body>
+    <h1>🏆 Friends Trophy Board</h1>
+
+    <h2>Current Rankings</h2>
+
+    <ol>
+        <li>Timeismy18 - 15 trophies</li>
+        <li>Friend 1 - 12 trophies</li>
+        <li>Friend 2 - 9 trophies</li>
+    </ol>
+</body>
+</html>
